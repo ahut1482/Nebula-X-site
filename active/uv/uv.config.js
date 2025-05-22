@@ -1,6 +1,6 @@
 self.__uv$config = {
     prefix: '/active/go/',
-    bare:'https://musical-space-rotary-phone-r4949xxwgg4hpx6g-8080.app.github.dev/',
+    bare:'https://nebula-x.above.gay/bare/',
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
     handler: '/active/uv/uv.handler.js',
